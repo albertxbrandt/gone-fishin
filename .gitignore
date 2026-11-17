@@ -1,0 +1,6 @@
+__pycache__/
+build/
+*.spec
+fishing.db
+fishing.db-wal
+fishing.db-shm
